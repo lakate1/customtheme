@@ -1,0 +1,31 @@
+/*
+Theme Name: Leah Theme
+Author: Leah Queen
+*/
+
+body {
+    background-color: grey;
+}
+header {
+    background-color: white;
+    width: 100%;
+    height: 100px;
+}
+.navigation {
+    margin: 0;
+    padding: 0;
+}
+.navigation a {
+    color: grey;
+    list-style: none;
+}
+.navigation li {
+    background-color: black;
+    float: left;
+    display: block;
+    padding: 14px 16px;
+    overflow: hidden;
+}
+.navigation li:hover {
+    background-color: pink;
+}
